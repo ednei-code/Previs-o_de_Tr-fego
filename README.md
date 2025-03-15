@@ -27,7 +27,7 @@ Desenvolver um modelo preditivo preciso para auxiliar na gestão do tráfego urb
         * **Recall (Sensibilidade):** Indica a capacidade do modelo de identificar corretamente todos os casos positivos (congestionamentos).
         * **Precision (Precisão):** Indica a proporção de previsões positivas corretas em relação a todas as previsões positivas.
         * **Matriz de Confusão:** Apresenta uma visão detalhada do desempenho do modelo, mostrando o número de previsões corretas e incorretas para cada classe (nível de tráfego)."
-    * (Se você tiver resultados numéricos específicos para essas métricas, como valores de Kappa, recall, precision e a matriz de confusão, inclua-os aqui. Por exemplo: "O modelo alcançou um Kappa de 0.85, recall de 0.92 e precision de 0.88.")
+  
 
 ## Ferramentas
 
